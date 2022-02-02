@@ -1,7 +1,6 @@
 package com.project.programming.springngblog.model;
 
 import javax.persistence.*;
-import javax.validation.constraints.NotBlank;
 
 @Entity
 public class User {
